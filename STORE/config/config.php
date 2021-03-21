@@ -11,7 +11,7 @@ session_start();
  * 
  */
 
-$config['base_url'] = "http://localhost/STORE/";
+$config['base_url'] = "MYSQL5044.site4now.net/STORE/";
 
 
 $config['default_module'] = 'home';
